@@ -10,7 +10,7 @@ Started off the project with the intention of creating a ML model can predict a 
 The final dataset is a collection of many smaller databanks including:
   1. Results of matches played by each international team for the past 48 years.
   2. Player stats of each team participating in the WC2022 therfore acquiring the the final Attacking , Defense , and Midfielder Stat of each team.
-  3. Team overrall rating of the year.
+  3. Team overrall rating of the year.</br>
  Note: Used the help of FIFA Official data to conclude the dataset.
  
  
